@@ -1,0 +1,20 @@
+{
+  "name": "PruebaBabyTuto",
+  "description": "PruebaBabyTuto",
+  "main": "index.html",
+  "authors": [
+    "Ricardo Castillo <rcastillo.developer@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
